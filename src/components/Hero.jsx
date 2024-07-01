@@ -14,7 +14,7 @@ const Hero = () => {
   };
 
   return (
-    <div className="bg-[#F7F5F9] mt-[80px] pt-10 px-7 flex justify-center gap-16 flex-col lg:flex-row items-center">
+    <div className="bg-[#F7F5F9] pt-10 px-7 flex justify-center gap-16 flex-col lg:flex-row items-center">
       <div className="w-[380px] sm:w-[500px] lg:w-[700px] justify-between flex flex-col">
         <p className="flex gap-1 text-[25px] md:text-[36px] font-semibold my-6">
           Explore <p>your</p> <p className="text-[#0096C8]">hobby</p>or
